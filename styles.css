@@ -1,0 +1,19 @@
+h1,p{
+    color: rgb(255, 8, 8);
+    /* background-color: antiquewhite; */
+}
+
+h2{
+    color: rgb(255, 196, 0);
+    /* background-color: antiquewhite; */
+    text-decoration:none;
+}
+
+h3{
+    color: rgb(0, 0, 0);
+    /* background-color: floralwhite; */
+}
+
+.container{
+    background-color: rgb(30, 210, 255);
+}
